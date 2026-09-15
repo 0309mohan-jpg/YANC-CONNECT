@@ -1,0 +1,6 @@
+{
+  "name": "YANC Connect",
+  "description": "Young Minds | Networking | Life Skills — Mentorship, Investor Sessions, Advisory Boards, and Founder Ecosystem",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
